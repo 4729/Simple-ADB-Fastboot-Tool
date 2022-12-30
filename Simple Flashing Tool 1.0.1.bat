@@ -4,7 +4,7 @@
 
 echo.
 echo ---------------------------------------
-echo  Simple Flashing Tool 1.0.0 by AoMocha
+echo  Simple Flashing Tool 1.0.1 by AoMocha
 echo ---------------------------------------
 echo.
 

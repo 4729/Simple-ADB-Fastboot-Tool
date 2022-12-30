@@ -2,4 +2,13 @@
 release
 
 1.0.1
-Fixed inappropriate description
+Fixed inappropriate description.
+
+1.1.1
+Increased warning when wiping data, Fixed inappropriate description.
+
+1.2.0
+ADB server is now killed by default when pressing exit in the menu.
+
+1.2.1
+Added option to kill ADB server

@@ -5,7 +5,7 @@ Simple ADB-Fastboot Tool is a batch file script that allows you to use ADB/Fastb
 Requires <a href="https://www.google.com/search?q=Android+Debug+Bridge&amp;">ADB</a>.
 
 --------------------------------------------------------------------------------------------------------------
-Japanese Readme
+## Japanese Readme
 
 Simple ADB-Fastboot Toolは、ADBコマンドが利用できない方向けにも簡単にコマンドを入力することなくADB/Fastbootのツールを利用できるバッチファイルスクリプトです。
 現段階では英語しか対応していません。
